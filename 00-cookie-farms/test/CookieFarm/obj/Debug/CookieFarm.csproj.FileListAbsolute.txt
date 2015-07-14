@@ -1,0 +1,6 @@
+E:\Adslot Puzzle\00-cookie-farms\test\CookieFarm\bin\Debug\CookieFarm.exe.config
+E:\Adslot Puzzle\00-cookie-farms\test\CookieFarm\bin\Debug\CookieFarm.exe
+E:\Adslot Puzzle\00-cookie-farms\test\CookieFarm\bin\Debug\CookieFarm.pdb
+E:\Adslot Puzzle\00-cookie-farms\test\CookieFarm\obj\Debug\CookieFarm.csprojResolveAssemblyReference.cache
+E:\Adslot Puzzle\00-cookie-farms\test\CookieFarm\obj\Debug\CookieFarm.exe
+E:\Adslot Puzzle\00-cookie-farms\test\CookieFarm\obj\Debug\CookieFarm.pdb
