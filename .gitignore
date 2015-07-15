@@ -1,2 +1,6 @@
 node_modules
 *.suo
+00-cookie-farms/test/Tests/obj/
+00-cookie-farms/test/Tests/bin/
+00-cookie-farms/test/CookieFarm/bin/
+00-cookie-farms/test/CookieFarm/obj/
