@@ -1,17 +1,23 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CookieFarm
 {
     public class Program
     {
+        // This a console app for the game. You can run this and get the output for any value you want
         public static void Main(string[] args)
         {
-            double value = CalculateTime(500.0, 4.0, 2000.0);
-            Console.WriteLine("Total Time To Win : " + value);
+            Console.WriteLine("Enter how many cookies need to buy a farm : ");
+            double noOfCookiesToBuyAFarm = Double.Parse(Console.ReadLine());
+            Console.WriteLine("Enter what is the frequency of generating cookies : "); 
+            double frequecy = Double.Parse(Console.ReadLine());
+            Console.WriteLine("Enter how many cookies need to win the game : "); 
+            double noOfCookiesToWin = Double.Parse(Console.ReadLine()); 
+            //double totalTime = CalculateTime(500.0, 4.0, 2000.0);
+
+
+            double totalTime = CalculateTime(noOfCookiesToBuyAFarm, frequecy, noOfCookiesToWin);
+            Console.WriteLine("Total Time To Win : " + Math.Round(totalTime, 7));
             Console.ReadKey();
         }
 

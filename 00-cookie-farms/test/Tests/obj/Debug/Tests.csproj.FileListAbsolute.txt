@@ -1,0 +1,12 @@
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\bin\Debug\Tests.dll
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\bin\Debug\Tests.pdb
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\obj\Debug\Tests.dll
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\obj\Debug\Tests.pdb
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\bin\Debug\Tests.dll.config
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\bin\Debug\nunit.core.interfaces.dll
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\bin\Debug\nunit.framework.dll
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\bin\Debug\TechTalk.SpecFlow.dll
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\bin\Debug\nunit.framework.xml
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\bin\Debug\CookieFarm.exe
+E:\Adslot Puzzle\00-cookie-farms\test\Tests\bin\Debug\CookieFarm.pdb
